@@ -2,7 +2,7 @@ umap-learn
 visdom
 librosa
 matplotlib>=3.3.0
-numpy
+numpy==1.20.3
 scipy>=1.0.0
 tqdm
 sounddevice
